@@ -1,0 +1,212 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.Demo.Connectors.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.Demo.Connectors.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.Foundation.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.SdkDataAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.Reporting.Code.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.CSVImport.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.SMControls.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.ReportingFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.ConsoleFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfToolbox.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\WPFToolkit.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.ViewFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.Controls.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.ExtendedControls.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.SMCriteria.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.Config.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\CommunicatorAPIInterop.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfViews.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\CommunicatorPrivateInterop.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.CSVImport.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.CSVImport.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.CSVImport.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ReportingFramework.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ReportingFramework.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ReportingFramework.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.WpfToolbox.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.WpfToolbox.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.WpfToolbox.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.SdkDataAccess.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.SdkDataAccess.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.SdkDataAccess.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors.Resource1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors.csproj.GenerateResource.Cache
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.Demo.Connectors.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.Demo.Connectors.pdb
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.Common.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.Foundation.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.SdkDataAccess.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.Reporting.Code.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.CSVImport.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.SMControls.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.ReportingFramework.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.ConsoleFramework.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfToolbox.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\WPFToolkit.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.ViewFramework.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.Controls.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.ExtendedControls.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.SMCriteria.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.Config.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\CommunicatorAPIInterop.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfViews.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\CommunicatorPrivateInterop.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.CSVImport.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.CSVImport.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.CSVImport.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ReportingFramework.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ReportingFramework.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ReportingFramework.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.WpfToolbox.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.WpfToolbox.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.WpfToolbox.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.SdkDataAccess.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.SdkDataAccess.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.SdkDataAccess.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\ResolveAssemblyReference.cache
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors.csproj.GenerateResource.Cache
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors.dll
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors.pdb
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorWelcomePage.g.cs
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors_MarkupCompile.cache
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors_MarkupCompile.lref
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorWelcomePage.baml
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors.g.resources
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorSummaryPage.g.cs
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorConfigurationPage.g.cs
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorSummaryPage.baml
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorConfigurationPage.baml
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorResultPage.g.cs
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorResultPage.baml
+C:\Software\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors.Resources.resources
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.Demo.Connectors.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.Demo.Connectors.pdb
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.Reporting.Code.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.CSVImport.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.SMControls.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.ReportingFramework.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.ConsoleFramework.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.Common.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\WPFToolkit.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.ViewFramework.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.Controls.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.ExtendedControls.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.SMCriteria.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.FormsInfra.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.Config.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\CommunicatorAPIInterop.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfViews.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\CommunicatorPrivateInterop.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.CSVImport.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.CSVImport.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.CSVImport.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ReportingFramework.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ReportingFramework.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ReportingFramework.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.FormsInfra.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.FormsInfra.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.FormsInfra.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.FormsInfra.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.SdkDataAccess.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.SdkDataAccess.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.SdkDataAccess.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorResultPage.g.cs
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorSummaryPage.g.cs
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorConfigurationPage.g.cs
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorWelcomePage.g.cs
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors_MarkupCompile.cache
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors_MarkupCompile.lref
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorResultPage.baml
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorSummaryPage.baml
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorConfigurationPage.baml
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\CSVConnectorWelcomePage.baml
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors.g.resources
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors.Resources.resources
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors.dll
+C:\Users\Administrator\Downloads\CSVConnector\CSV\Microsoft.Demo.Connectors\Microsoft.Demo.Connectors\obj\Debug\Microsoft.Demo.Connectors.pdb
