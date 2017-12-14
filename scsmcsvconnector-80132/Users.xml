@@ -1,0 +1,6 @@
+﻿<CSVImportFormat>
+  <Class Type="System.Domain.User">
+    <Property ID="Domain"/>
+    <Property ID="UserName"/>
+  </Class>
+</CSVImportFormat>

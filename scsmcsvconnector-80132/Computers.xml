@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CSVImportFormat>
+  <Class Type="Microsoft.Windows.Computer">
+    <Property ID="PrincipalName"/>
+    <Property ID="IPAddress"/>
+    <Property ID="DomainDnsName"/>
+  </Class>
+</CSVImportFormat>
