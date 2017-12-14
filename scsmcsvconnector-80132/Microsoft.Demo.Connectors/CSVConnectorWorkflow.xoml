@@ -1,0 +1,10 @@
+<SequentialWorkflowActivity x:Class="WorkflowAuthoring.CSVConnectorWorkflow" x:Name="CSVConnectorWorkflow" xmlns:ns0="clr-namespace:Microsoft.ServiceManager.WorkflowAuthoring.ActivityLibrary;Assembly=Microsoft.ServiceManager.WorkflowAuthoring.ActivityLibrary, Version=7.0.5000.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/workflow">
+	<ns0:WindowsPowerShellScript Parameter="{x:Null}" SnapIns="{x:Null}" x:Name="ImportData" PropertyToBind="{x:Null}" ScriptBody="Add-PSSnapin SMCmdletSnapin ; Import-SCSMInstance -DataFileName $DataFilePath -FormatFileName $FormatFilePath" TaskID="CSVConnectorWorkflow.WindowsPowerShellScript.6569c396_6c6a_43fa_ac13_50260637ff0d" ScriptName="{x:Null}">
+		<ns0:WindowsPowerShellScript.Parameters>
+			<x:Array Type="{x:Type p7:ActivityParameter}" xmlns:p7="clr-namespace:Microsoft.ServiceManager.WorkflowAuthoring.Common;Assembly=Microsoft.ServiceManager.WorkflowAuthoring.Common, Version=7.0.5000.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+				<ns1:ActivityParameter Key="DataFilePath" BindPath="{ActivityBind CSVConnectorWorkflow,Path=ImportData_DataFilePath}" Value="Activity=CSVConnectorWorkflow, Path=ImportData_DataFilePath" xmlns:ns1="clr-namespace:Microsoft.ServiceManager.WorkflowAuthoring.Common;Assembly=Microsoft.ServiceManager.WorkflowAuthoring.Common, Version=7.0.5000.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+				<ns1:ActivityParameter Key="FormatFilePath" BindPath="{ActivityBind CSVConnectorWorkflow,Path=ImportData_FormatFilePath}" Value="Activity=CSVConnectorWorkflow, Path=ImportData_FormatFilePath" xmlns:ns1="clr-namespace:Microsoft.ServiceManager.WorkflowAuthoring.Common;Assembly=Microsoft.ServiceManager.WorkflowAuthoring.Common, Version=7.0.5000.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+			</x:Array>
+		</ns0:WindowsPowerShellScript.Parameters>
+	</ns0:WindowsPowerShellScript>
+</SequentialWorkflowActivity>

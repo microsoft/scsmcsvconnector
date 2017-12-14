@@ -1,0 +1,23 @@
+﻿<!--
+ Copyright(c) Microsoft.  All rights reserved.
+ This code is licensed under the Microsoft Public License.
+ http://www.microsoft.com/opensource/licenses.mspx
+ 
+ THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND,
+ EITHER EXPRESSED OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES
+ OF FITNESS FOR A PARITCULAR PURPOSE, MERCHANTABILITY, OR
+ NON-INFRINGEMENT.
+ 
+ Original Author: Travis Wright (twright@microsoft.com)
+ Original Creation Date: Dec 30, 2009
+ Original Version: 1.0
+-->
+<wpfwiz:WizardWelcomePageBase x:Class="Microsoft.Demo.Connectors.CSV.CSVConnectorWelcomePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Microsoft.Demo.Connectors.CSV"
+    xmlns:wpfwiz="clr-namespace:Microsoft.EnterpriseManagement.UI.WpfWizardFramework;assembly=Microsoft.EnterpriseManagement.UI.WpfWizardFramework">
+    <Grid Margin="15">
+        <Label Height="25" Name="Instructions" Margin="0,15,0,0" VerticalAlignment="Top" Content="You can use this wizard to create an automated CSV Connector."/>
+    </Grid>
+</wpfwiz:WizardWelcomePageBase>

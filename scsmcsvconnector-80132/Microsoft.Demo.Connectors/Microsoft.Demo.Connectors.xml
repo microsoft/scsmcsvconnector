@@ -1,0 +1,218 @@
+﻿<ManagementPack ContentReadable="true" SchemaVersion="1.1" OriginalSchemaVersion="1.1" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+  <Manifest>
+    <Identity>
+      <ID>Microsoft.Demo.Connectors</ID>
+      <Version>1.0.0.0</Version>
+    </Identity>
+    <Name>Microsoft Demonstration Connector MP</Name>
+    <References>
+      <Reference Alias="System">
+        <ID>System.Library</ID>
+        <Version>7.0.5244.0</Version>
+        <PublicKeyToken>31bf3856ad364e35</PublicKeyToken>
+      </Reference>
+      <Reference Alias="LinkingFramework.Library">
+        <ID>ServiceManager.LinkingFramework.Library</ID>
+        <Version>7.0.5244.0</Version>
+        <PublicKeyToken>31bf3856ad364e35</PublicKeyToken>
+      </Reference>
+      <Reference Alias="ServiceManager.UI.Administration">
+        <ID>Microsoft.EnterpriseManagement.ServiceManager.UI.Administration</ID>
+        <Version>7.0.5244.0</Version>
+        <PublicKeyToken>31bf3856ad364e35</PublicKeyToken>
+      </Reference>
+      <Reference Alias="Console">
+        <ID>Microsoft.EnterpriseManagement.ServiceManager.UI.Console</ID>
+        <Version>7.0.5244.0</Version>
+        <PublicKeyToken>31bf3856ad364e35</PublicKeyToken>
+      </Reference>
+      <Reference Alias="SystemCenter">
+        <ID>Microsoft.SystemCenter.Library</ID>
+        <Version>7.0.5244.0</Version>
+        <PublicKeyToken>31bf3856ad364e35</PublicKeyToken>
+      </Reference>
+      <Reference Alias="Windows">
+        <ID>Microsoft.Windows.Library</ID>
+        <Version>7.0.5244.0</Version>
+        <PublicKeyToken>31bf3856ad364e35</PublicKeyToken>
+      </Reference>
+      <Reference Alias="Core">
+        <ID>ServiceManager.Core.Library</ID>
+        <Version>7.0.5818.0</Version>
+        <PublicKeyToken>31bf3856ad364e35</PublicKeyToken>
+      </Reference>
+      <Reference Alias="SystemCenter1">
+        <ID>Microsoft.SystemCenter.Subscriptions</ID>
+        <Version>7.0.5818.0</Version>
+        <PublicKeyToken>31bf3856ad364e35</PublicKeyToken>
+      </Reference>
+    </References>
+  </Manifest>
+  <TypeDefinitions>
+    <EntityTypes>
+      <ClassTypes>
+        <ClassType ID="Microsoft.Demo.Connectors.CSVConnector" Accessibility="Public" Abstract="false" Base="LinkingFramework.Library!System.LinkingFramework.DataSource" Hosted="false" Singleton="false" Extension="false">
+          <Property ID="DataFilePath" Type="string" AutoIncrement="false" Key="false" CaseSensitive="false" MaxLength="256" MinLength="0" Required="false" />
+          <Property ID="MappingFilePath" Type="string" AutoIncrement="false" Key="false" CaseSensitive="false" MaxLength="256" MinLength="0" Required="false" />
+          <Property ID="NumberMinutes" Type="string" AutoIncrement="false" Key="false" CaseSensitive="false" MaxLength="256" MinLength="0" Required="false" />
+        </ClassType>
+      </ClassTypes>
+    </EntityTypes>
+    <ModuleTypes>
+      <WriteActionModuleType ID="CSVConnectorWorkflow.WindowsPowerShellScript.6569c396_6c6a_43fa_ac13_50260637ff0d.MT" Accessibility="Public" RunAs="Core!Microsoft.SystemCenter.ServiceManager.WorkflowAccount" Batching="false">
+        <Configuration>
+          <IncludeSchemaTypes>
+            <SchemaType>Windows!Microsoft.Windows.PowerShellSchema</SchemaType>
+          </IncludeSchemaTypes>
+          <xsd:element name="DataFilePath" type="xsd:string" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+          <xsd:element name="FormatFilePath" type="xsd:string" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+        </Configuration>
+        <OverrideableParameters>
+          <OverrideableParameter ID="DataFilePath" Selector="$Config/DataFilePath$" ParameterType="string" />
+          <OverrideableParameter ID="FormatFilePath" Selector="$Config/FormatFilePath$" ParameterType="string" />
+        </OverrideableParameters>
+        <ModuleImplementation Isolation="Any">
+          <Composite>
+            <MemberModules>
+              <WriteAction ID="CSVConnectorWorkflow.WindowsPowerShellScript.6569c396_6c6a_43fa_ac13_50260637ff0d.PSWA" TypeID="Windows!Microsoft.Windows.PowerShellWriteAction">
+                <ScriptName>DoWork.ps1</ScriptName>
+                <ScriptBody>
+                    param ( [string]$DataFilePath,[string]$FormatFilePath )
+                    Add-PSSnapin SMCmdletSnapin ; Import-SCSMInstance -DataFileName $DataFilePath -FormatFileName $FormatFilePath
+                </ScriptBody>
+                <SnapIns></SnapIns>
+                <Parameters>
+                  <Parameter>
+                    <Name>DataFilePath</Name>
+                    <Value>$Config/DataFilePath$</Value>
+                  </Parameter>
+                  <Parameter>
+                    <Name>FormatFilePath</Name>
+                    <Value>$Config/FormatFilePath$</Value>
+                  </Parameter>
+                </Parameters>
+                <TimeoutSeconds>300</TimeoutSeconds>
+                <StrictErrorHandling>true</StrictErrorHandling>
+                <SerializationDepth>3</SerializationDepth>
+              </WriteAction>
+            </MemberModules>
+            <Composition>
+              <Node ID="CSVConnectorWorkflow.WindowsPowerShellScript.6569c396_6c6a_43fa_ac13_50260637ff0d.PSWA" />
+            </Composition>
+          </Composite>
+        </ModuleImplementation>
+        <InputType>System!System.BaseData</InputType>
+      </WriteActionModuleType>
+    </ModuleTypes>
+  </TypeDefinitions>
+  <Categories>
+    <Category ID="Category.DoubleClickEditCSVConnector" Target="Task.EditCSVConnector" Value="Console!Microsoft.EnterpriseManagement.ServiceManager.UI.Console.DoubleClickTask" />
+    <Category ID="Category.SCSM.MP" Value="Console!Microsoft.EnterpriseManagement.ServiceManager.ManagementPack">
+      <ManagementPackName>Microsoft.Demo.Connectors</ManagementPackName>
+      <ManagementPackVersion>1.0.0.0</ManagementPackVersion>
+    </Category>
+  </Categories>
+  <Monitoring>
+    <Tasks>
+      <Task ID="CSVConnectorWorkflow.WindowsPowerShellScript.6569c396_6c6a_43fa_ac13_50260637ff0d" Accessibility="Public" Enabled="true" Target="Windows!Microsoft.Windows.Computer" Timeout="300" Remotable="true">
+        <Category>Notification</Category>
+        <WriteAction ID="CSVConnectorWorkflow.WindowsPowerShellScript.6569c396_6c6a_43fa_ac13_50260637ff0d.WA" TypeID="CSVConnectorWorkflow.WindowsPowerShellScript.6569c396_6c6a_43fa_ac13_50260637ff0d.MT">
+          <DataFilePath></DataFilePath>
+          <FormatFilePath></FormatFilePath>
+        </WriteAction>
+      </Task>
+    </Tasks>
+  </Monitoring>
+  <Presentation>
+    <ConsoleTasks>
+      <ConsoleTask ID="Task.CreateCSVConnector" Accessibility="Public" Enabled="true" Target="ServiceManager.UI.Administration!Microsoft.EnterpriseManagement.ServiceManager.UI.Administration.Task.CreateConnector" RequireOutput="false">
+        <Assembly>Console!SdkDataAccessAssembly</Assembly>
+        <Handler>Microsoft.EnterpriseManagement.UI.SdkDataAccess.ConsoleTaskHandler</Handler>
+        <Parameters>
+          <Argument Name="Assembly">Microsoft.Demo.Connectors</Argument>
+          <Argument Name="Type">Microsoft.Demo.Connectors.CSV.CSVConnector</Argument>
+          <Argument>Create</Argument>
+        </Parameters>
+      </ConsoleTask>
+      <ConsoleTask ID="Task.EditCSVConnector" Accessibility="Public" Enabled="true" Target="Microsoft.Demo.Connectors.CSVConnector" RequireOutput="false">
+        <Assembly>Console!SdkDataAccessAssembly</Assembly>
+        <Handler>Microsoft.EnterpriseManagement.UI.SdkDataAccess.ConsoleTaskHandler</Handler>
+        <Parameters>
+          <Argument Name="Assembly">Microsoft.Demo.Connectors</Argument>
+          <Argument Name="Type">Microsoft.Demo.Connectors.CSV.CSVConnector</Argument>
+          <Argument>Edit</Argument>
+        </Parameters>
+      </ConsoleTask>
+      <ConsoleTask ID="Task.DeleteCSVConnector" Accessibility="Public" Enabled="true" Target="Microsoft.Demo.Connectors.CSVConnector" RequireOutput="false">
+        <Assembly>Console!SdkDataAccessAssembly</Assembly>
+        <Handler>Microsoft.EnterpriseManagement.UI.SdkDataAccess.ConsoleTaskHandler</Handler>
+        <Parameters>
+          <Argument Name="Assembly">Microsoft.Demo.Connectors</Argument>
+          <Argument Name="Type">Microsoft.Demo.Connectors.CSV.CSVConnector</Argument>
+          <Argument>Delete</Argument>
+        </Parameters>
+      </ConsoleTask>
+      <ConsoleTask ID="Task.EnableCSVConnector" Accessibility="Public" Enabled="true" Target="Microsoft.Demo.Connectors.CSVConnector" RequireOutput="false">
+        <Assembly>Console!SdkDataAccessAssembly</Assembly>
+        <Handler>Microsoft.EnterpriseManagement.UI.SdkDataAccess.ConsoleTaskHandler</Handler>
+        <Parameters>
+          <Argument Name="Assembly">Microsoft.Demo.Connectors</Argument>
+          <Argument Name="Type">Microsoft.Demo.Connectors.CSV.CSVConnector</Argument>
+          <Argument>Enable</Argument>
+        </Parameters>
+      </ConsoleTask>
+      <ConsoleTask ID="Task.DisableCSVConnector" Accessibility="Public" Enabled="true" Target="Microsoft.Demo.Connectors.CSVConnector" RequireOutput="false">
+        <Assembly>Console!SdkDataAccessAssembly</Assembly>
+        <Handler>Microsoft.EnterpriseManagement.UI.SdkDataAccess.ConsoleTaskHandler</Handler>
+        <Parameters>
+          <Argument Name="Assembly">Microsoft.Demo.Connectors</Argument>
+          <Argument Name="Type">Microsoft.Demo.Connectors.CSV.CSVConnector</Argument>
+          <Argument>Disable</Argument>
+        </Parameters>
+      </ConsoleTask>
+    </ConsoleTasks>
+    <ImageReferences>
+      <ImageReference ElementID="Task.EditCSVConnector" ImageID="Console!Microsoft.EnterpriseManagement.ServiceManager.UI.Console.Image.Properties" />
+      <ImageReference ElementID="Task.DeleteCSVConnector" ImageID="Console!Microsoft.EnterpriseManagement.ServiceManager.UI.Console.Image.Remove" />
+      <ImageReference ElementID="Task.EnableCSVConnector" ImageID="Console!Microsoft.EnterpriseManagement.ServiceManager.UI.Console.Image.Enable" />
+      <ImageReference ElementID="Task.DisableCSVConnector" ImageID="Console!Microsoft.EnterpriseManagement.ServiceManager.UI.Console.Image.Disable" />
+    </ImageReferences>
+  </Presentation>
+  <LanguagePacks>
+    <LanguagePack ID="ENU" IsDefault="true">
+      <DisplayStrings>
+        <DisplayString ElementID="Microsoft.Demo.Connectors.CSVConnector">
+          <Name>CSV Connector</Name>
+        </DisplayString>
+        <DisplayString ElementID="Microsoft.Demo.Connectors.CSVConnector" SubElementID="DataFilePath">
+          <Name>Data File Path</Name>
+        </DisplayString>
+        <DisplayString ElementID="Microsoft.Demo.Connectors.CSVConnector" SubElementID="MappingFilePath">
+          <Name>Mapping File Path</Name>
+        </DisplayString>
+        <DisplayString ElementID="Task.CreateCSVConnector">
+          <Name>CSV Connector</Name>
+        </DisplayString>
+        <DisplayString ElementID="Task.EditCSVConnector">
+          <Name>Properties</Name>
+        </DisplayString>
+        <DisplayString ElementID="Task.DeleteCSVConnector">
+          <Name>Delete</Name>
+        </DisplayString>
+        <DisplayString ElementID="Task.EnableCSVConnector">
+          <Name>Enable</Name>
+        </DisplayString>
+        <DisplayString ElementID="Task.DisableCSVConnector">
+          <Name>Disable</Name>
+        </DisplayString>
+        <DisplayString ElementID="Microsoft.Demo.Connectors">
+          <Name>Microsoft.Demo.Connectors</Name>
+          <Description></Description>
+        </DisplayString>
+        <DisplayString ElementID="CSVConnectorWorkflow.WindowsPowerShellScript.6569c396_6c6a_43fa_ac13_50260637ff0d">
+          <Name>CSVConnectorWorkflow.WindowsPowerShellScript.6569c396_6c6a_43fa_ac13_50260637ff0d</Name>
+        </DisplayString>
+      </DisplayStrings>
+    </LanguagePack>
+  </LanguagePacks>
+</ManagementPack>

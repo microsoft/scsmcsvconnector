@@ -1,0 +1,51 @@
+﻿<!--
+ Copyright(c) Microsoft.  All rights reserved.
+ This code is licensed under the Microsoft Public License.
+ http://www.microsoft.com/opensource/licenses.mspx
+ 
+ THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND,
+ EITHER EXPRESSED OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES
+ OF FITNESS FOR A PARITCULAR PURPOSE, MERCHANTABILITY, OR
+ NON-INFRINGEMENT.
+ 
+ Original Author: Travis Wright (twright@microsoft.com)
+ Original Creation Date: Dec 30, 2009
+ Original Version: 1.0
+-->
+<wpfwiz:WizardRegularPageBase x:Class="Microsoft.Demo.Connectors.CSV.CSVConnectorConfigurationPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Microsoft.Demo.Connectors.CSV"
+    xmlns:wpfwiz="clr-namespace:Microsoft.EnterpriseManagement.UI.WpfWizardFramework;assembly=Microsoft.EnterpriseManagement.UI.WpfWizardFramework" Loaded="WizardRegularPageBase_Loaded">
+    <Grid Name="ConfigurationGrid" Margin="15,25,15,25">
+        <TextBlock Height="28" Margin="0,0,0,0" Name="titleLabel" FontWeight="Bold" Foreground="#FF003399" FontSize="14" VerticalAlignment="Top" Text="Configure the Connector"/>
+        <ScrollViewer Margin="0,50,0,50" Name="scrollViewer" CanContentScroll="True" VerticalScrollBarVisibility="Auto">
+            <StackPanel Name="stackPanel" Orientation="Vertical">
+                <Label Height="25" Padding="0" Margin="0,0,0,0" Name="displayamelabel" Content="Connector name:"/>
+                <TextBox Height="25" Margin="0,-8,0,10" Name="displaynameTextBlock">
+                    <TextBox.Text>
+                        <Binding Path="DisplayName" Mode="TwoWay"/>
+                    </TextBox.Text>
+                </TextBox>
+                <Label Height="25" Padding="0" Margin="0,0,0,0" Name="datafilepathLabel" Content="Data file path:"/>
+                <TextBox Height="25" Margin="0,-8,0,10" Name="domainTextBlock">
+                    <TextBox.Text>
+                        <Binding Path="DataFilePath" Mode="TwoWay"/>
+                    </TextBox.Text>
+                </TextBox>
+                <Label Height="25" Padding="0" Margin="0,0,0,0" Name="mappingfilepathLabel" Content="Mapping file path:"/>
+                <TextBox Height="25" Margin="0,-8,0,10" Name="credentialTextBlock">
+                    <TextBox.Text>
+                        <Binding Path="MappingFilePath" Mode="TwoWay"/>
+                    </TextBox.Text>
+                </TextBox>
+                <Label Height="25" Padding="0" Margin="0,0,0,0" Name="numberminutesLabel" Content="Frequency (number of minutes):"/>
+                <TextBox Height="25" Margin="0,-8,0,10" Name="numberminutesTextBlock">
+                    <TextBox.Text>
+                        <Binding Path="NumberMinutes" Mode="TwoWay" FallbackValue="60"/>
+                    </TextBox.Text>
+                </TextBox>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</wpfwiz:WizardRegularPageBase>
